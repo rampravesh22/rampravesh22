@@ -9,14 +9,16 @@
 🌱 &nbsp;I'm on track for learning more about web devlopement, machine learning, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I love playing chess and watch anime.\
 ✉️ &nbsp;You can shoot me an email at rpc1752@gmail.com.! I'll try to respond as soon as I can.
+<br>
 
-<br>
-<br>
+#
 <br>
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="" width='60%'/>
 <br>
 <br>
-<br>
+
+#
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
