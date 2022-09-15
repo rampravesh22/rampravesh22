@@ -15,7 +15,6 @@
 <br>
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="" width='60%'/>
 <br>
-<br>
 
 #
 
