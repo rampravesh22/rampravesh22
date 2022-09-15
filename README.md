@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="" style = "width:60%;position:relative;left:50%;transform:translateX(-50%);"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="" width='80%'/>
 <br>
 <br>
 <br>
