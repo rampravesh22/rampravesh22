@@ -55,10 +55,10 @@
         >
 
    <svg data-testid="lang-items" x="25">
-
+<!--
       <mask id="rect-mask">
         <rect x="0" y="0" width="300" height="8" fill="white" rx="5" />
-      </mask>
+      </mask> -->
 <!--
           <rect
             mask="url(#rect-mask)"
@@ -144,58 +144,60 @@
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript (22.62%)
+        JavaScript (Intermediate)
       </text>
     </g>
 
-    <g transform="translate(150, 25)">
-      <circle cx="5" cy="6" r="5" fill="#b07219" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java (17.47%)
-      </text>
-    </g>
 
-    <g transform="translate(0, 50)">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C (15.17%)
-      </text>
-    </g>
 
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python (12.27%)
+        Python (Advanced)
+      </text>
+    </g>
+	   <g transform="translate(150, 100)">
+      <circle cx="5" cy="6" r="5" fill="#198CE7" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Django (Intermediate)
       </text>
     </g>
 
     <g transform="translate(0, 75)">
       <circle cx="5" cy="6" r="5" fill="#563d7c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS (9.68%)
+        CSS (Advanced)
       </text>
     </g>
 
     <g transform="translate(150, 75)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML (9.58%)
+        HTML (Advanced)
       </text>
     </g>
 
     <g transform="translate(0, 100)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ (8.94%)
+        C++ (Intermediate)
+      </text>
+    </g>
+	 <g transform="translate(150, 25)">
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Java (Fundamentals)
       </text>
     </g>
 
-    <g transform="translate(150, 100)">
-      <circle cx="5" cy="6" r="5" fill="#198CE7" />
+    <g transform="translate(0, 50)">
+      <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Django (4.28%)
+        C (Intermediate)
       </text>
     </g>
+
+
 
 
     </svg>
